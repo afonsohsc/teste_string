@@ -59,16 +59,8 @@ namespace ordered_list
         {           
             int quantCaracterX = x.Length;
             int quantCaracterY = y.Length;
-            string menor;
 
-            if (quantCaracterX < quantCaracterY)
-            {
-                menor = x;
-            }
-            else
-            {
-                menor = y;
-            } 
+            string menor = quantCaracterX < quantCaracterY ? x : y;
 
             for (int i = 0; i < menor.Length; i++)
             {
