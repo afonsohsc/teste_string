@@ -14,14 +14,18 @@ namespace ordered_list
         static void Main(string[] args)
         {
 
-            string textoA = "https://raw.githubusercontent.com/financas360/provas/master/klingon-textoA.txt";
-            //string textoB = "https://raw.githubusercontent.com/financas360/provas/master/klingon-textoB.txt";
+            //string textoA = "https://raw.githubusercontent.com/financas360/provas/master/klingon-textoA.txt";
+            string textoB = "https://raw.githubusercontent.com/financas360/provas/master/klingon-textoB.txt";
 
-            OrdenarTexto textoOrdenado = new OrdenarTexto(textoA);
+            OrdenarTexto textoOrdenado = new OrdenarTexto(textoB);
 
-            Console.WriteLine("Texto A ordenado");
+            Console.WriteLine("Texto ordenado");
             Console.WriteLine();
             Console.WriteLine(textoOrdenado.Ordenar());
+
+            TextWriter texto = new StreamWriter("Texto ordenado.txt");
+            texto.WriteLine(textoOrdenado.Ordenar());
+            texto.Close();
 
             Console.ReadKey();
 

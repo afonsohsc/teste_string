@@ -13,9 +13,9 @@ namespace number
         static void Main(string[] args)
         {
             char[] alfabeto = { 'k', 'b', 'w', 'r', 'q', 'd', 'n', 'f', 'x', 'j', 'm', 'l', 'v', 'h', 't', 'c', 'g', 'z', 'p', 's' };
-            string textoA = "https://raw.githubusercontent.com/financas360/provas/master/klingon-textoA.txt";
-            //string textoB = "https://raw.githubusercontent.com/financas360/provas/master/klingon-textoB.txt";
-            string URL = textoA;
+            ///string textoA = "https://raw.githubusercontent.com/financas360/provas/master/klingon-textoA.txt";
+            string textoB = "https://raw.githubusercontent.com/financas360/provas/master/klingon-textoB.txt";
+            string URL = textoB;
 
             List<string> texto = new List<string>();        
       

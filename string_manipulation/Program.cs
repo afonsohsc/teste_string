@@ -12,10 +12,10 @@ namespace string_manipulation
     {
         static void Main(string[] args)
         {           
-            string textoA = "https://raw.githubusercontent.com/financas360/provas/master/klingon-textoA.txt";
-            //string textoB = "https://raw.githubusercontent.com/financas360/provas/master/klingon-textoB.txt";
+            //string textoA = "https://raw.githubusercontent.com/financas360/provas/master/klingon-textoA.txt";
+            string textoB = "https://raw.githubusercontent.com/financas360/provas/master/klingon-textoB.txt";
 
-            string URL = textoA;
+            string URL = textoB;
 
             StreamReader reader = new StreamReader(WebRequest.Create(URL).GetResponse().GetResponseStream());
 
