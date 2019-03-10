@@ -10,7 +10,7 @@ namespace ordered_list
 {
     class OrdenarTexto
     {
-        char[] alfabeto = { 'k', 'b', 'w', 'r', 'q', 'd', 'n', 'f', 'x', 'j', 'm', 'l', 'v', 'h', 't', 'c', 'g', 'z', 'p', 's' };
+        private char[] alfabeto = { 'k', 'b', 'w', 'r', 'q', 'd', 'n', 'f', 'x', 'j', 'm', 'l', 'v', 'h', 't', 'c', 'g', 'z', 'p', 's' };
         private SortedDictionary<char, int> valLetra = new SortedDictionary<char, int>();
         private List<string> palavras = new List<string>();
         private static string URL;
