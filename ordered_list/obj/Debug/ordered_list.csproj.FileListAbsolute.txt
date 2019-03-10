@@ -1,0 +1,7 @@
+C:\Users\Afonso Carvalho\Desktop\string_manipulation\ordered_list\bin\Debug\ordered_list.exe.config
+C:\Users\Afonso Carvalho\Desktop\string_manipulation\ordered_list\bin\Debug\ordered_list.exe
+C:\Users\Afonso Carvalho\Desktop\string_manipulation\ordered_list\bin\Debug\ordered_list.pdb
+C:\Users\Afonso Carvalho\Desktop\string_manipulation\ordered_list\obj\Debug\ordered_list.csprojAssemblyReference.cache
+C:\Users\Afonso Carvalho\Desktop\string_manipulation\ordered_list\obj\Debug\ordered_list.csproj.CoreCompileInputs.cache
+C:\Users\Afonso Carvalho\Desktop\string_manipulation\ordered_list\obj\Debug\ordered_list.exe
+C:\Users\Afonso Carvalho\Desktop\string_manipulation\ordered_list\obj\Debug\ordered_list.pdb

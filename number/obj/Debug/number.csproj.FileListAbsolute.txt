@@ -1,0 +1,7 @@
+C:\Users\Afonso Carvalho\Desktop\string_manipulation\number\bin\Debug\number.exe.config
+C:\Users\Afonso Carvalho\Desktop\string_manipulation\number\bin\Debug\number.exe
+C:\Users\Afonso Carvalho\Desktop\string_manipulation\number\bin\Debug\number.pdb
+C:\Users\Afonso Carvalho\Desktop\string_manipulation\number\obj\Debug\number.csprojAssemblyReference.cache
+C:\Users\Afonso Carvalho\Desktop\string_manipulation\number\obj\Debug\number.csproj.CoreCompileInputs.cache
+C:\Users\Afonso Carvalho\Desktop\string_manipulation\number\obj\Debug\number.exe
+C:\Users\Afonso Carvalho\Desktop\string_manipulation\number\obj\Debug\number.pdb
