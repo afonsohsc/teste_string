@@ -10,8 +10,8 @@ namespace ordered_list
 {
     class OrdenarTexto
     {
-        private string[] alfabeto = { "k","b","w","r","q","d","n","f","x","j","m","l","v","h","t","c","g","z","p","s" };
-        private SortedDictionary<string, int> valLetra = new SortedDictionary<string, int>();
+        char[] alfabeto = { 'k', 'b', 'w', 'r', 'q', 'd', 'n', 'f', 'x', 'j', 'm', 'l', 'v', 'h', 't', 'c', 'g', 'z', 'p', 's' };
+        private SortedDictionary<char, int> valLetra = new SortedDictionary<char, int>();
         private List<string> palavras = new List<string>();
         private static string URL;
         
@@ -64,8 +64,8 @@ namespace ordered_list
 
             for (int i = 0; i < menor.Length; i++)
             {
-                string letra1 = x[i].ToString();
-                string letra2 = y[i].ToString();
+                char letra1 = x[i];
+                char letra2 = y[i];
 
                 if (valLetra[letra1] > valLetra[letra2])
                 {
