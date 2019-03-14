@@ -5,3 +5,10 @@ C:\Users\Afonso Carvalho\Desktop\string_manipulation\string_manipulation\bin\Deb
 C:\Users\Afonso Carvalho\Desktop\string_manipulation\string_manipulation\bin\Debug\string_manipulation.pdb
 C:\Users\Afonso Carvalho\Desktop\string_manipulation\string_manipulation\obj\Debug\string_manipulation.exe
 C:\Users\Afonso Carvalho\Desktop\string_manipulation\string_manipulation\obj\Debug\string_manipulation.pdb
+C:\Users\Afonso Carvalho\source\repos\teste_string\string_manipulation\bin\Debug\string_manipulation.exe.config
+C:\Users\Afonso Carvalho\source\repos\teste_string\string_manipulation\bin\Debug\string_manipulation.exe
+C:\Users\Afonso Carvalho\source\repos\teste_string\string_manipulation\bin\Debug\string_manipulation.pdb
+C:\Users\Afonso Carvalho\source\repos\teste_string\string_manipulation\obj\Debug\string_manipulation.csprojAssemblyReference.cache
+C:\Users\Afonso Carvalho\source\repos\teste_string\string_manipulation\obj\Debug\string_manipulation.csproj.CoreCompileInputs.cache
+C:\Users\Afonso Carvalho\source\repos\teste_string\string_manipulation\obj\Debug\string_manipulation.exe
+C:\Users\Afonso Carvalho\source\repos\teste_string\string_manipulation\obj\Debug\string_manipulation.pdb

@@ -85,14 +85,13 @@ namespace string_manipulation
 
         private bool IsPreposicao()
         {
-            char ultimaLetra = texto.Last();
             int cont = 0;
 
-            if (texto.Length == 3 && texto.IndexOf('d') < 0)
+            if (texto.Length == 3 && !texto.Contains('d'))
             {
                 foreach (char letraFoo in LETRA_FOO)
                 {
-                    if (!ultimaLetra.Equals(letraFoo))
+                    if (!texto.EndsWith(letraFoo.ToString()))
                     {
                         cont++;
                     }
